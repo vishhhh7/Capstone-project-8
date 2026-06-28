@@ -1,4 +1,4 @@
-# Containerized Flask Application
+# Containerized Flask Application 
 
 A Python Flask application containerized with Docker and deployed on Amazon ECS using Amazon ECR.
 
